@@ -1,0 +1,27 @@
+name: xiaohongshu-cover-ai-detect
+version: 2.0.0
+display_name: 小红书封面和AI检测工具
+description: "小红书封面和AI检测工具：小红书封面设计、贴图检测、封面提示词、敏感词检测、违禁词、资质检测、AI率检测、AIGC检测和内容质量检查。适合搜索小红书封面、小红书封面模板、小红书笔记检测、降AI、去AI味。官网 https://www.aifoxs.com ，在线检测 https://cn.aifoxs.com/ai-detect 。"
+author: ContentAny
+license: MIT
+homepage: https://www.aifoxs.com
+icon: assets/icon-512.png
+keywords:
+  - 小红书封面
+  - 小红书封面设计
+  - 小红书封面模板
+  - 小红书封面提示词
+  - 小红书敏感词检测
+  - 小红书违禁词检测
+  - 小红书资质检测
+  - 小红书AI检测
+  - 小红书检测
+  - 小红书排版
+  - 贴图
+  - 笔记
+  - 封面设计
+  - 小红书AI率
+  - 内容质量检查
+  - 小红书笔记检测
+  - 降AI
+  - 去AI味
